@@ -1,0 +1,594 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+[remote "gitsafe-backup"]
+	url = git://gitsafe:5418/backup.git
+	fetch = +refs/heads/*:refs/remotes/gitsafe-backup/*
+	skipFetchAll = true
+	lfsurl = http://gitsafe:5419
+[lfs "http://gitsafe:5419"]
+	locksverify = false
+[remote "subrepl-am6c3qix"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-am6c3qix/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[lfs]
+	repositoryformatversion = 0
+[remote "subrepl-q7cb0lo6"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-q7cb0lo6/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-nq9avcsv"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-nq9avcsv/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-rdupm94l"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-rdupm94l/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-eis9u2d9"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-eis9u2d9/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-o63qopci"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-o63qopci/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-y5aftn2m"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-y5aftn2m/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-jhvfyl4u"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-jhvfyl4u/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-r4pv371l"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-r4pv371l/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-h16ivztj"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-h16ivztj/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-4q9rlwln"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-4q9rlwln/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-pavuhqou"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-pavuhqou/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-uviu8qy7"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-uviu8qy7/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-gq7nb04f"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-gq7nb04f/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-ctf346je"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-ctf346je/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-qwafjatd"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-qwafjatd/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-jswsvscq"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-jswsvscq/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-uzzi0bkb"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-uzzi0bkb/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-q27gy08g"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-q27gy08g/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-ebaw7alk"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-ebaw7alk/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-qqiz6eug"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-qqiz6eug/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-mm3vmu7e"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-mm3vmu7e/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-gveajmq5"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-gveajmq5/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-1gcjckgn"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-1gcjckgn/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-niqm1csq"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-niqm1csq/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-uhl8983y"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-uhl8983y/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-03g5brbf"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-03g5brbf/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-azdqqjn4"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-azdqqjn4/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-2evfn4yc"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-2evfn4yc/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-sagigsk9"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-sagigsk9/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-o2tlaljq"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-o2tlaljq/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-9ll55kge"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-9ll55kge/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-rqh97cos"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-rqh97cos/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-ndh3aysz"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-ndh3aysz/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-o5rswzbt"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-o5rswzbt/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-i49bkkzw"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-i49bkkzw/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-q69on32b"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-q69on32b/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-eb1z19dt"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-eb1z19dt/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-yl6u7rdq"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-yl6u7rdq/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-rbc6wu76"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-rbc6wu76/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-jr1q2ogp"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-jr1q2ogp/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-tcq044ce"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-tcq044ce/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-i4ylh26g"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-i4ylh26g/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-jumga8lf"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-jumga8lf/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-elorznl7"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-elorznl7/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-pihb57cx"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-pihb57cx/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-0004xh32"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-0004xh32/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-xkj05j1m"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-xkj05j1m/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-k6hanqy9"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-k6hanqy9/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-wr1c2plr"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-wr1c2plr/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-gx7yno55"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-gx7yno55/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-r9156qpr"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-r9156qpr/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-j0kebmj4"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-j0kebmj4/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-rxfz5fjy"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-rxfz5fjy/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-fbdpuknr"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-fbdpuknr/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-usse3r33"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-usse3r33/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-4jqxblzc"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-4jqxblzc/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-ycnvjaun"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-ycnvjaun/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-6b97pb9c"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-6b97pb9c/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-7tvnx5oz"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-7tvnx5oz/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-ia0pr17l"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-ia0pr17l/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-wx6u7xbt"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-wx6u7xbt/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-q02673av"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-q02673av/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-aizqxa12"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-aizqxa12/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-44qmqlhi"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-44qmqlhi/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-5nif8sec"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-5nif8sec/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-1czwq0d6"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-1czwq0d6/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-15gxio0o"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-15gxio0o/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-1g9decg1"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-1g9decg1/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-2m1z1key"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-2m1z1key/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-6u2z8ogr"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-6u2z8ogr/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-zueydmu2"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-zueydmu2/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-yijl3pw3"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-yijl3pw3/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-0wbcmc6v"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-0wbcmc6v/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-5s0p4wmn"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-5s0p4wmn/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-aebb1lmv"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-aebb1lmv/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-umvzbz4f"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-umvzbz4f/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-7gqnbhxq"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-7gqnbhxq/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-ngd055ju"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-ngd055ju/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-wn1bdl0m"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-wn1bdl0m/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-uuvlrnqz"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-uuvlrnqz/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-9h7d2sdc"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-9h7d2sdc/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-gxpdrucv"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-gxpdrucv/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-onqr3oon"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-onqr3oon/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-9p439gdx"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-9p439gdx/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-xszq70jj"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-xszq70jj/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-3nukunkx"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-3nukunkx/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-bohql52o"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-bohql52o/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-qu5pdjv7"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-qu5pdjv7/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-6ecznfww"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-6ecznfww/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-qc94ewdc"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-qc94ewdc/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-rs2orrga"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-rs2orrga/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-tqd4epzz"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-tqd4epzz/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-u21gleek"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-u21gleek/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-nbpoknmh"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-nbpoknmh/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-bb5wcudq"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-bb5wcudq/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-yxu2qb97"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-yxu2qb97/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-s0nt3jnp"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-s0nt3jnp/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-q91hss4m"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-q91hss4m/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-fb81il7o"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-fb81il7o/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-asjjcoxx"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-asjjcoxx/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-b3sbslia"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-b3sbslia/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-cudj4n36"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-cudj4n36/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-39vxxrvb"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-39vxxrvb/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-rp3muad7"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-rp3muad7/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-b7pk7sa3"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-b7pk7sa3/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-3zju00k4"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-3zju00k4/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-gpjqheib"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-gpjqheib/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-4t3taciz"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-4t3taciz/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-v39y8hcs"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-v39y8hcs/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-63tiy1yk"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-63tiy1yk/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-du0lzyiq"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-du0lzyiq/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-h2hr7hjl"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-h2hr7hjl/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-215711r1"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-215711r1/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-dezx8en5"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-dezx8en5/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-pmy9576h"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-pmy9576h/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-xrj4tlf5"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-xrj4tlf5/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-326iq87e"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-326iq87e/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-5zyp0e8a"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-5zyp0e8a/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-v0nipz2u"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-v0nipz2u/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-zzh3cvvo"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-zzh3cvvo/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-anxulftz"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-anxulftz/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-6rd5xwed"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-6rd5xwed/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-jpxc2y67"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-jpxc2y67/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-j4et2atp"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-j4et2atp/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-vfbrj97m"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-vfbrj97m/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-osii3gif"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-osii3gif/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-t4poeauz"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-t4poeauz/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-6kpv2wes"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-6kpv2wes/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-gzu4tdnh"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-gzu4tdnh/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-q38b99q5"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-q38b99q5/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-fp9c8mpo"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-fp9c8mpo/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-vclsymw2"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-vclsymw2/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-yvshsrai"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-yvshsrai/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-zfj3swov"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-zfj3swov/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-v0a9mq4x"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-v0a9mq4x/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-fig92wnq"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-fig92wnq/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-ixr5crzy"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-ixr5crzy/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-l9cbqqr6"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-l9cbqqr6/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-vrbixr5k"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-vrbixr5k/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-2pjm2qj7"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-2pjm2qj7/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-7my8homn"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-7my8homn/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-sfnoe36h"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-sfnoe36h/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-l4t4anm3"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-l4t4anm3/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace
+[remote "subrepl-emwiknmo"]
+	url = git+ssh://git@ssh.kirk.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-emwiknmo/*
+	lfsurl = ssh://git@ssh.kirk.replit.dev/home/runner/workspace

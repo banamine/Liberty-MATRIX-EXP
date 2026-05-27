@@ -1,0 +1,10 @@
+Add uninterrupted playback by suppressing all news breaks
+
+Update playback logic to include continuous mode in suppressing all news breaks, including forced injections, and clarify UI tooltips.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 139f3263-049f-49b4-9417-e7a6c28147c5
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: ada08543-a64b-4ff6-9bf1-54885e6fc6c9
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/c2aafe15-50cf-4b11-9b6f-ebead17093de/139f3263-049f-49b4-9417-e7a6c28147c5/E92gjat
+Replit-Helium-Checkpoint-Created: true
